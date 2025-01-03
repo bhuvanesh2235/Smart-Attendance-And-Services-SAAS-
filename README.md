@@ -24,7 +24,7 @@ SAAS (Smart Attendance and Services) offers a seamless, automated, and real-time
 - Records attendance automatically using face recognition technology.  
 - Stored attendance is accessible via a Drive link as an Excel sheet.  
 
-![Attendance Page](https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Attendance_Page.jpg)  
+<img src="https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Attendance_Page.jpg" alt="Attendance Page" width="350px">
 
 ### 2. **Real-Time Translation**  
 - Translate input text into **German**, **Arabic**, or **Korean**.  
@@ -32,18 +32,18 @@ SAAS (Smart Attendance and Services) offers a seamless, automated, and real-time
   - **Download Model**: Allows downloading translation models before usage.  
   - Simple interface for text input and language selection.  
 
-![Translate Page](https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Translate_Page.jpg)  
+<img src="https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Translate_Page.jpg" alt="Translate Page" width="350px"> 
 
 ### 3. **Account Management**  
 - Easy login and logout functionality.  
 - Secure authentication with email and password.  
 
-![Account Page](https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Account_Page.jpg)  
+<img src="https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Account_Page.jpg" alt="Account Page" width="350px">   
 
 ### 4. **Splash Screen**  
 - Attractive splash screen for an enhanced user experience.  
 
-![Splash Screen](https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Splash_Screen.jpg)  
+<img src="https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Splash_Screen.jpg" alt="Splash Screen" width="350px">   
 
 ### 5. **Home Page with Tabs**  
 - Organized into four primary tabs:  
@@ -52,18 +52,18 @@ SAAS (Smart Attendance and Services) offers a seamless, automated, and real-time
   - **Translate**  
   - **Account**  
 
-![Home Page](https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Home_Page.jpg)  
+<img src="https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Home_Page.jpg" alt="Home Page" width="350px">  
 
 ### 6. **Drive Integration**  
 - Attendance data is stored in an Excel sheet accessible via a Drive link.  
 
-![Drive Page](https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Drive_Page.jpg)  
+<img src="https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Drive_Page.jpg" alt="Drive Page" width="350px">  
 
 ---
 
 ## How It Works  
 1. **Login**: Users authenticate with their email and password.  
-   ![Login Page](https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Login_Page.jpg)  
+     <img src="https://github.com/bhuvanesh2235/Smart-Attendance-And-Services-SAAS-/blob/main/Images/Login_Page.jpg" alt="Login_Page" width="350px">  
 2. **Attendance Recording**: Face recognition technology captures attendance as users enter the classroom.  
 3. **Translation**: Users can input text and translate it to German, Arabic, or Korean after downloading the respective models.  
 4. **Account Management**: Allows users to manage their account, including logging out securely.  
